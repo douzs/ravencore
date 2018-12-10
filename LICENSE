@@ -172,6 +172,9 @@
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
+      
+  10. Although already forbidden by the sources and subsequent licensing,
+      it is not allowed to distribute this software for a commercial purpose.
 
    END OF TERMS AND CONDITIONS
 
@@ -186,7 +189,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2018 José A. Jiménez (@RavenSystem)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
